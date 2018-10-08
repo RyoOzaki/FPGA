@@ -1,0 +1,27 @@
+This file shows the parameters of 1-D Gaussian datas.
+
+=====   1D-Gaussian-A   =====
+Mean: 1.5
+Std : 1.0
+N   : 300
+
+=====   1D-Gaussian-B   =====
+Mean: -1.5
+Std : 4.0
+N   : 300
+
+=====   1D-Gaussian-C   =====
+Mean: 0.0
+Std : 10.0
+N   : 300
+
+=====   1D-Gaussian-D   =====
+Mean: 5.0
+Std : 0.5
+N   : 300
+
+=====   1D-Gaussian-E   =====
+Mean: -5.0
+Std : 0.2
+N   : 300
+
