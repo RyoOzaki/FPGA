@@ -42,7 +42,8 @@ for i in range(K):
 
 #%%
 plt.hist(datas, bins=100)
-plt.show()
+# plt.show()
+plt.savefig("./data_histogram.png")
 
 #%%
 np.savetxt("./data.txt", datas)
